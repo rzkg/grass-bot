@@ -144,6 +144,12 @@ To monitor the logs and see the bot in action, use:
 docker logs -f getgrass_app
 ```
 
+or
+
+```bash
+docker-compose logs -f
+```
+
 This will keep the logs open and show you real-time activity from the container.
 
 **Enjoy using GetGrass! Feel free to open an issue on GitHub if you encounter any problems.**
@@ -292,6 +298,12 @@ Untuk memantau log dan melihat bot berjalan, gunakan:
 
 ```bash
 docker logs -f getgrass_app
+```
+
+atau
+
+```bash
+docker-compose logs -f
 ```
 
 Ini akan menampilkan log secara real-time dan menunjukkan aktivitas dari container.
