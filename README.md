@@ -87,6 +87,9 @@ Sign up using the following referral link:
      localStorage.getItem('userId')
      ```
    - If you receive a warning that says “Don’t paste code into the DevTools Console”, type `allow pasting` and press ENTER.
+     ```javascript
+     allow pasting
+     ```
    - Run the command again:
      ```javascript
      localStorage.getItem('userId')
